@@ -3,3 +3,9 @@ git add .  -> Add the files in your new local repository. This stages them for t
 git commit -m "First commit"  --> Commit the files that you've staged in your local repository.
 
 git push origin master --> Push the changes in your local repository to GitHub.
+
+git remote add origin https://github.com/nikhilbhatnagar/FirstJob.git
+
+git remote add origin https://github.com/nikhilbhatnagar/FirstJob.git
+
+git remote -v
